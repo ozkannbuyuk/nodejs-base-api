@@ -2,6 +2,10 @@
    Node.js - Base API
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/nodejs-base-api/assets/111967202/c8fac8fa-5e5c-4562-9f39-73130d014962" width="400" />
   <img src="https://github.com/ozkannbuyuk/nodejs-base-api/assets/111967202/5c0cd985-cdfd-41ed-b577-3b999502f50f" width="400" />
